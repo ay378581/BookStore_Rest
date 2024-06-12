@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>BookStore_Rest-Dev1</name>
+=======
+	<name>BookStore_Rest-Dev2</name>
+>>>>>>> branch 'master' of https://github.com/ay378581/BookStore_Rest.git
 	<comment></comment>
 	<projects>
 	</projects>
